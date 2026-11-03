@@ -1,0 +1,5 @@
+# Repositório de distribuição: só README.md e .gitignore são versionados.
+# O pacote, o empacotador e os arquivos-fonte NÃO sobem para o GitHub.
+*
+!.gitignore
+!README.md
